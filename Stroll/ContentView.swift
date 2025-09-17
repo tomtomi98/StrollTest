@@ -64,7 +64,7 @@ struct HeaderView: View {
                         .frame(width: 16, height: 16)
                         .background(
                             Circle()
-                                .fill(Color(hex: "#0E0E0E"))
+                                .fill(Color(hex: "#B49AD1"))
                         )
                 }
                 
